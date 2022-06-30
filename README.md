@@ -3,4 +3,5 @@
 Colletotrichum
 truncatum
 
-a local edit
+Both a local edit
+
